@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+    background-color: white;
+}
+
+
+header{
+    background-color: #283c4e;
+    text-align: center;
+    height: 100px;
+    border-radius: 25px;
+}
+
+p{
+    text-align: justify;
+}
+
+article h1{
+    font-size: 30px;
+    font-family: verdana;
+    color: black;
+    text-align: center;
+    background-color: #eaece9;
+    border-radius: 25px;
+}
+
+#prt1{
+    background-color: #94ecbc ;
+    border: 2px solid #041b33;
+    font-family: verdana;
+    text-align: center;
+}
+
+#prt2{
+    background-color: #94ecbc;
+    border: 2px solid #041b33;
+    font-family: verdana;
+
+}
+
+#prt3{
+    background-color: #94ecbc ;
+    border: 2px solid #041b33;
+    font-family: verdana;
+    text-align: center;
+}
+
+#prt3 img{
+    border: 5px solid #041b33;
+}
+
+#prt3 p{
+    text-align: center;
+}
+
+footer{
+    background-color: #283c4e;
+    text-align: center;
+    font-family: verdana;
+    border-radius: 10px; 
+    color: #eaece9;
+
+}
